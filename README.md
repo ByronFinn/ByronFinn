@@ -6,6 +6,8 @@
 
 I build coding agents that live in the terminal, skill systems that keep AI agents disciplined, and eval tooling that makes LLM work reproducible.
 
+🌐 **[baifan.site](https://baifan.site)** · 📝 **[Blog](https://blog.baifan.site)**
+
 </div>
 
 ---
