@@ -33,10 +33,10 @@ I build coding agents that live in the terminal, skill systems that keep AI agen
 
 <p align="center">
   <a href="https://github.com/ByronFinn">
-    <img src="https://github-readme-stats.vercel.app/api?username=ByronFinn&show_icons=true&hide_border=true&rank_icon=github" alt="ByronFinn's GitHub stats" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ByronFinn&show_icons=true&hide_border=true&rank_icon=github" alt="ByronFinn's GitHub stats" height="165" />
   </a>
   <a href="https://github.com/ByronFinn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByronFinn&layout=compact&hide_border=true" alt="Top languages" height="165" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ByronFinn&layout=compact&hide_border=true" alt="Top languages" height="165" />
   </a>
 </p>
 
