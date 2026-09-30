@@ -1,12 +1,14 @@
 <div align="center">
 
-# ByF
+# ByF (BaiFan)
 
-**Terminal-first AI tooling — agents, skills, and evals.**
+**白帆 · Terminal-first AI tooling — agents, skills, and evals.**
+
+ByF and BaiFan (白帆) are two spellings of the same name.
 
 I build coding agents that live in the terminal, skill systems that keep AI agents disciplined, and eval tooling that makes LLM work reproducible.
 
-🌐 **[baifan.site](https://baifan.site)** · 📝 **[Blog](https://blog.baifan.site)**
+🌐 **[baifan.site](https://baifan.site)** · 📝 **[Blog](https://blog.baifan.site)** · 🐦 **[X @ByFanX](https://x.com/ByFanX)**
 
 </div>
 
